@@ -1,5 +1,4 @@
 # Tensorboard_example
-Tensorboard_example
 
 This is code I want to share with friends on the basic stuff I learned while researching Tensorboard.
 
